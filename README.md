@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RUTHURESH
-- 👀 I’m interested in AI Projects
-- 🌱 I’m currently learning some basic aspects of digital capabiliities
-- 💞️ I’m looking to collaborate with some cool, like minded people to get some inspiration on my projects.
-- 📫 How to reach me on ;
-     Gmail -- ruthuresh10@gmail.com ,
-      insta -- rock_n_roll_3049 
+- 👀 I’m interested in, wait.... could be anything I guess
+- 💞️ I’m looking to collaborate with some like minded people to work on cool projects.
+- 📫 How to reach me on : ruthuresh10@gmail.com
+      That's It :) Bye Bye.....
 
 <!---
 RUTHURESH/RUTHURESH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
